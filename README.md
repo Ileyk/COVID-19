@@ -26,7 +26,7 @@ The standard procedure to translate is:
 - copy the all the ink files in the folder of the language from which you want to translate (e.g. English -> EN)
 - commit your changes
 
-Alternatively, for those not familiar with GitHub, you can email me the ink files you produced (and the name of the language they are written in) at [ileykelmellah@orange.fr](mailto:ileykelmellah@orange.fr).
+Alternatively, for those not familiar with GitHub, you can [email me](mailto:ileykelmellah@orange.fr) the ink files you produced and the name of the language they are written in.
 
 ## To do
 - [ ] Translations
