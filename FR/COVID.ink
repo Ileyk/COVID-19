@@ -14,7 +14,7 @@ INCLUDE endings.ink
 VAR tensiometre_=0 // by default, no tensiometer
 VAR saturometre_=0 // by default, no saturometer
 
-Consulation à distance?
+Consultation à distance?
 
 + Oui # CLASS: answ
 -> Instru -> Gravite
