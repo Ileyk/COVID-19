@@ -48,5 +48,8 @@ Alternatively, for those not familiar with GitHub, you can [email me](mailto:ile
 
 ## Acknowledgements
 
-To [Inkle Studios](https://www.inklestudios.com/ink/)\n
-To Sarah Brooks
+To [Inkle Studios](https://www.inklestudios.com/ink/)
+
+To Sarah Brooks (English version)
+
+To Silvia Martínez-Núñez (Spanish version)

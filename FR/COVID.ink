@@ -1,5 +1,4 @@
 # theme: dark
-# author: Ileyk El Mellah
 
 INCLUDE comorbidites.ink
 INCLUDE sympt_benign.ink

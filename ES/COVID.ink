@@ -13,9 +13,9 @@ INCLUDE endings.ink
 VAR tensiometre_=0 // by default, no tensiometer
 VAR saturometre_=0 // by default, no saturometer
 
-Is it a remote consultation?
+¿Es una consulta remota?
 
-+ Yes # CLASS: answ
++ Si # CLASS: answ
 -> Instru -> Gravite
 + No # CLASS: answ 
 // assume that the person who fills this form (medical staff,
@@ -28,9 +28,9 @@ Is it a remote consultation?
 
 = tensiometre 
 
-Does the patient have access to a blood pressure monitor?
+¿Tiene el paciente acceso a un tensiómetro?
 
-+ Yes # CLASS: answ 
++ Si # CLASS: answ 
 ~ tensiometre_=1
 -> saturometre
 + No # CLASS: answ 
@@ -39,9 +39,9 @@ Does the patient have access to a blood pressure monitor?
 
 = saturometre
 
-Does the patient have access to a pulse oximeter?
+¿Tiene el paciente acceso a un oxímetro de pulso?
 
-+ Yes # CLASS: answ 
++ Si # CLASS: answ 
 ~ saturometre_=1
 ->-> 
 + No # CLASS: answ 
